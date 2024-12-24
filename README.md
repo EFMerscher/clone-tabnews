@@ -1,2 +1,3 @@
 # clone-tabnews
-Curso do Filipe Deschamps e criação do TabNews
+
+Implementação do https://www.tabnews.com.br pelo https://curso.dev
